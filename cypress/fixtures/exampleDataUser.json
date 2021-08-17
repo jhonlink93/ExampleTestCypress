@@ -1,0 +1,14 @@
+{
+    "name": "Jane",
+    "lastName": "Lasso",
+    "email": "exampleemail@email.com",
+    "gender":"Female",
+    "mobile": "311654789",
+    "dateBirth": "15 SEP 1996",
+    "subject" : "Computer Science,English",
+    "hobbies": "Music",
+    "currenAddress": "example addres ",
+    "state": "NCR",
+    "city": "Gurgaon"
+
+}
