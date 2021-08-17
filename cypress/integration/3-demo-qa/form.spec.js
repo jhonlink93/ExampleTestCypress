@@ -32,7 +32,7 @@ describe.only('can fill out form on demoqa', () => {
                 .first()
                 .should('have.text', arrayOptions[0])
             cy.contains(profile.hobbies).click()
-            cy.get('#uploadPicture').attachFile('exampleDataUse.json')
+            cy.get('#uploadPicture').attachFile('exampleDataUser.json')
             cy.get('#currentAddress').type(profile.currenAddress)
             cy.get('#state')
                 .click()
